@@ -1,5 +1,5 @@
 # Python-Stock-Prediction
-python project used to predict the next day price of Apple stock. Uses Sequential Model LSTM
+python project used to predict the next day price of Apple stock. Prediction of Sequential Data with LSTM.
 
 ## Predicted values and Actual values graph
 ![plot](https://user-images.githubusercontent.com/44002551/196327446-990ddbb4-a814-479b-aaf6-beb30a645f34.png)
